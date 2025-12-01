@@ -1,0 +1,5 @@
+{
+  "name": "React Asteroids",
+  "description": "A high-fidelity recreation of the classic arcade game Asteroids using React, TypeScript, and HTML5 Canvas. Features vector-style graphics, particle effects, and synthesized audio.",
+  "requestFramePermissions": []
+}
